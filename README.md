@@ -116,7 +116,7 @@ Of course, I have done a very good mobile adaptation.
 
 ### Footer
 
-**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/gaohaoyang).
+**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [13xiaobang](https://github.com/gaohaoyang).
 
 ![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
@@ -171,8 +171,8 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title: 13xiaobang
+brief-intro: An interesting programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
 ```
